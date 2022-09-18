@@ -1,5 +1,6 @@
 import 'package:lab4tutorial1/lab4_tutorial1.dart' as lab4_tutorial1;
 
+//create user class
 class User {
   int id = 0;
   String name = "";
@@ -13,6 +14,7 @@ class User {
   }
 }
 
+//create pasword class
 class Password {
   String value = "";
   bool isValid() {
