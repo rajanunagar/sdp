@@ -1,5 +1,6 @@
 import 'package:lab4_tutorial2/lab4_tutorial2.dart' as lab4_tutorial2;
 
+
 void main(List<String> arguments) {
   // print('Hello world: ${lab4_tutorial2.calculate()}!');
 /*
@@ -7,8 +8,8 @@ void main(List<String> arguments) {
 //What null means
 // Null means “no value” or “absence of a value”.
 int postalCode = 12345;
-int postalCode = -1;
-int postalCode = null;
+int postalCode = -20;
+int postalCode = null; // this will give an eror.
 //this code will  value is  null
 //error :A value of type 'Null' can't be assigned to a va
 riable of type 'int'.
