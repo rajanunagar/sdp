@@ -338,9 +338,9 @@ class Name {
   }
 }
 void main(){
-Name p1=Name(givenName: "faizan");
-Name p2=Name(givenName: "faizan",surname: "vora");
-Name p3=Name(givenName: "faizan",surnameIsFirst: true,surname: "vora");
+Name p1=Name(givenName: "rajan");
+Name p2=Name(givenName: "rajan",surname: "unagar");
+Name p3=Name(givenName: "rajan",surnameIsFirst: true,surname: "unagar");
 print(p1);
 print(p2);
 print(p3);
